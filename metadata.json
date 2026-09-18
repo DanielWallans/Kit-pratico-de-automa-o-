@@ -1,0 +1,6 @@
+{
+  "name": "Kit Prático de Automação e Produtividade",
+  "description": "Documento técnico formatado com fundo branco, fonte monoespaçada, linhas de código visíveis, realce de sintaxe e exportação em PDF para equipes de desenvolvimento.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
